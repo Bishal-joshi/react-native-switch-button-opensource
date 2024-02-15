@@ -1,0 +1,23 @@
+{
+  "name": "react-native-switch-button-opensource",
+  "version": "1.0.0",
+  "description": "a react native library for switch button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bishal-joshi/react-native-switch-button-opensource.git"
+  },
+  "keywords": [
+    "react",
+    "native"
+  ],
+  "author": "Bishal Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bishal-joshi/react-native-switch-button-opensource/issues"
+  },
+  "homepage": "https://github.com/Bishal-joshi/react-native-switch-button-opensource#readme"
+}
