@@ -7,7 +7,7 @@ A customizable React Native Switch Component
 Install the package using npm or yarn:
 
 ```bash
-npm i react-native-switch-opensource
+npm i react-native-switch-button-opensource
 
 ```
 ## Usage
@@ -15,7 +15,7 @@ npm i react-native-switch-opensource
 ```javascript
 import React, { useState } from 'react';
 import { View, StyleSheet,Text } from 'react-native';
-import Switch from 'react-native-switch-opensource';
+import Switch from 'react-native-switch-button-opensource';
 
 const App = () => {
   const [isOn, setIsOn] = useState(false);
